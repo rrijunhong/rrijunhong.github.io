@@ -8,9 +8,9 @@
 
 - 💬最近読んでいる本 **ピエタ**
 
-- 📫 如何联系我 **risyunkou0902＠gmail.com**
+- 📫 メールアドレス **risyunkou0902＠gmail.com**
 
-- ⚡ 有趣的事实 **日本ドラマ昭和aiドル**
+- ⚡ 趣味 **日本ドラマ昭和aiドル**
 
 <h3align="left">与我联系：</h3>
 <palign="left">
