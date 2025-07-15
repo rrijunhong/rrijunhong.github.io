@@ -1,7 +1,7 @@
-theme: jekyll-theme-slate
-title: The homepage of Michael Schiltz, financial historian & intermittent archivist
-description: What you will find here are links to projects, publications, and repositories related to the former.
-plugins:
-  - jemoji
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
 url: "https://rrijunhong.github.io/
 markdown: kramdown
